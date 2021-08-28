@@ -15,6 +15,8 @@
 
 ### button_hover_effects 
 
+![button_hover_effect2](./readme_assets/button_hover2.gif)
+
 - 2021.08.27 - 이전부터 조금 해둔 Youtube 과정 업로드 
 
     - 열심히 배우겠습니다
