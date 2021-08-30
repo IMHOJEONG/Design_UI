@@ -22,3 +22,7 @@
     - 열심히 배우겠습니다
 
     - 현재 CSS 문법 정리 중 
+
+### e_commerce_card
+
+![e_commerce_card](./readme_assets/e_commerce_card.gif)
