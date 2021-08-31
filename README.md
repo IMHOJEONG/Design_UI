@@ -26,3 +26,7 @@
 ### e_commerce_card
 
 ![e_commerce_card](./readme_assets/e_commerce_card.gif)
+
+### split_video_background 
+
+![split_video](./readme_assets/split_video.gif)
